@@ -1,0 +1,28 @@
+export const words = [
+    "apple", "banana", "orange", "grape", "house", "computer", "car", "flower", "mountain", "river", "book", "bottle", 
+    "music", "chair", "table", "dog", "cat", "sun", "moon", "star", "phone", "pen", "notebook", "window", "door", "keyboard", 
+    "mouse", "tree", "forest", "beach", "ocean", "cloud", "rain", "snow", "storm", "wind", "fire", "water", "earth", 
+    "sky", "bird", "fish", "elephant", "lion", "tiger", "bear", "horse", "cow", "sheep", "goat", "chicken", "duck", 
+    "pencil", "eraser", "scissors", "paper", "envelope", "stamp", "letter", "email", "message", "website", "browser", 
+    "lamp", "candle", "clock", "watch", "mirror", "painting", "picture", "camera", "battery", "light", "fan", "television", 
+    "radio", "headphones", "speaker", "microphone", "vacuum", "fridge", "oven", "microwave", "stove", "sink", "bathroom", 
+    "bedroom", "kitchen", "living room", "garage", "garden", "yard", "fence", "gate", "street", "road", "highway", "bridge", 
+    "city", "town", "village", "building", "skyscraper", "apartment", "hotel", "restaurant", "store", "market", "mall", 
+    "bank", "office", "school", "university", "hospital", "doctor", "nurse", "teacher", "student", "engineer", "scientist", 
+    "artist", "writer", "musician", "actor", "dancer", "chef", "driver", "pilot", "captain", "sailor", "farmer", "police", 
+    "firefighter", "soldier", "lawyer", "judge", "athlete", "coach", "referee", "ball", "goal", "team", "player", "game", 
+    "race", "match", "tournament", "medal", "winner", "loser", "leader", "champion", "coach", "referee", "stadium", "field", 
+    "court", "track", "gym", "park", "playground", "pool", "river", "lake", "pond", "island", "continent", "country", 
+    "state", "city", "town", "village", "neighborhood", "block", "street", "avenue", "boulevard", "highway", "intersection", 
+    "bridge", "tunnel", "train", "station", "airport", "port", "harbor", "ship", "boat", "submarine", "yacht", "canoe", 
+    "kayak", "bike", "scooter", "skateboard", "rollerblades", "skis", "snowboard", "helmet", "gloves", "jacket", "boots", 
+    "shoes", "socks", "pants", "shorts", "shirt", "t-shirt", "sweater", "coat", "hat", "scarf", "glasses", "watch", "ring", 
+    "necklace", "bracelet", "earrings", "wallet", "purse", "bag", "suitcase", "backpack", "umbrella", "cane", "stroller", 
+    "wheelchair", "bed", "mattress", "pillow", "blanket", "sheets", "closet", "drawer", "shelf", "cupboard", "table", 
+    "desk", "chair", "stool", "sofa", "couch", "armchair", "bench", "cabinet", "rug", "carpet", "curtain", "blinds", "shade", 
+    "window", "door", "wall", "ceiling", "roof", "floor", "stairs", "elevator", "escalator", "balcony", "patio", "garden", 
+    "yard", "fence", "gate", "driveway", "sidewalk", "path", "road", "street", "lane", "avenue", "boulevard", "highway", 
+    "freeway", "intersection", "crosswalk", "traffic light", "stop sign", "road sign", "speed limit", "detour", "bridge", 
+    "tunnel", "overpass", "underpass", "train", "station", "bus", "taxi", "car", "truck", "van", "motorcycle", "bicycle"
+  ]
+  
